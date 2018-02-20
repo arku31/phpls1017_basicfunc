@@ -4,7 +4,7 @@ function getX()
     $x = 'xxxxxx';
     return $x;
 }
-
+//Ctrl+K и Ctrl+shift+K
 function getY()
 {
     $y = 'yyyy';
