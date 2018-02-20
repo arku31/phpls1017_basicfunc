@@ -7,7 +7,7 @@ function getX()
 //Ctrl+K и Ctrl+shift+K
 function getY()
 {
-    $y = 'yyyy';
+    $y = 'yyyy'; //izmenil
     echo $y;
 }
 
